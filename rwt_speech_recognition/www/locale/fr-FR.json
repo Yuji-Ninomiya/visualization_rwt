@@ -1,0 +1,20 @@
+{
+    'continuous': 'Continu',
+    'once': 'une fois que',
+    'speak': 'Parler',
+    'stop': 'Arrêter',
+    'language': 'La langue',
+    'detail': 'Montrer les détails',
+    'publishdetail': 'Publier les détails',
+    'clear': 'Supprimer l historique',
+    'status': 'Statut actuel',
+    'result': 'Résultats',
+    'soundstart': 'Reconnaître...',
+    'nomatch': 'Aucune concordance.',
+    'error': 'Erreur.',
+    'soundend': 'Tourner au ralenti.',
+    'number': 'numéro',
+    'word': 'Mots',
+    'confidence': 'Confiance',
+    'change': 'Changement'
+}

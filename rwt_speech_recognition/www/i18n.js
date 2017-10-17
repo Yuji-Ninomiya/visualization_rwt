@@ -24,7 +24,8 @@
 
     window.setLanguage = function(l) {
         // var lang = l || 'ja-JP';
-	var lang = l || 'it-IT';
+	// var lang = l || 'it-IT';
+	var lang = l || 'fr-FR';
 
         if(window.localStorage) {
             var localMsgStore = localStorage.getItem('localizationMsgStore'+lang);
