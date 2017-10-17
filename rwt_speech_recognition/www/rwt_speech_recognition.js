@@ -43,7 +43,8 @@ $(function() {
 
     var speech_recog = new SpeechRecognition();
 
-    speech_recog.lang = 'ja-JP';
+    // speech_recog.lang = 'ja-JP';
+    speech_recog.lang = 'it-IT';
     speech_recog.continuous = false;
     speech_recog.interimResults = false;
     speech_recog.maxAlternatives = 5;

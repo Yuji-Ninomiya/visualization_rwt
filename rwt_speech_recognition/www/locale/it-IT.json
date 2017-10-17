@@ -1,0 +1,21 @@
+{
+    'continuous':    'Continuo',
+    'once': 'Una volta',
+    'speak': 'Parlare',
+    'stop': 'Stop',
+    'language': 'Lingua',
+    'detail': 'Mostra i dettagli', //show detail
+    'publishdetail': 'Pubblicare dettagli', //publish detail
+    'clear': 'Cancellare la cronologia', //clear history
+    'status': 'Stato attuale', //current state
+    'result': 'Risultato',
+    'soundstart': 'Riconoscendo...', //recognizing
+    // 'speechstart': '',
+    'nomatch': 'Nessuna corrispondenza', //no match
+    'error': 'Errore',
+    'soundend': 'Inattivo',
+    'number': 'Numero',
+    'word': 'Parole',
+    'confidence': 'Fiducia',
+    'change': 'Modificare'
+}

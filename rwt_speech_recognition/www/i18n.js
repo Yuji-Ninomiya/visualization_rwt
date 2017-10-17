@@ -23,7 +23,8 @@
     };
 
     window.setLanguage = function(l) {
-        var lang = l || 'ja-JP';
+        // var lang = l || 'ja-JP';
+	var lang = l || 'it-IT';
 
         if(window.localStorage) {
             var localMsgStore = localStorage.getItem('localizationMsgStore'+lang);
