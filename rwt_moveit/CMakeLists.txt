@@ -2,9 +2,9 @@ cmake_minimum_required(VERSION 2.8.3)
 project(rwt_moveit)
 
 find_package(catkin REQUIRED COMPONENTS
-  interactive_marker_proxy
+  #interactive_marker_proxy
   kdl_parser
-  moveit_msgs
+  #moveit_msgs
   robot_state_publisher
   rosbridge_server
   rospy
@@ -13,7 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
   std_msgs
   tf
-  tf2_web_republisher
+  #tf2_web_republisher
   visualization_msgs
   message_generation
 )
